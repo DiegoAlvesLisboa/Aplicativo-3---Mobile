@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grimório de Hogwarts</string>
+    <string name="btn_buscar_personagem">Buscar Personagem</string>
+    <string name="btn_buscar_criatura">Buscar Criatura</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="hint_nome_personagem">Digite parte do nome (ex: Weasley)</string>
+    <string name="hint_nome_criatura">Digite o nome completo da criatura</string>
+    <string name="desc_imagem_criatura">Imagem da criatura</string>
+    <string name="desc_voltar">Voltar</string>
+</resources>
